@@ -2,4 +2,4 @@ date
 
 whoami
 
-ifconfig enp0s3
+sudo ifconfig enp0s3
