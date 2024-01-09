@@ -2,6 +2,6 @@ date
 
 whoami
 
-yum install net-tools -y 
+sudo yum install net-tools -y 
 
-#sudo ifconfig enp0s3
+sudo ifconfig
