@@ -1,2 +1,3 @@
 date
-echo "This is new update \n"
+
+ifconfig enp0s3
